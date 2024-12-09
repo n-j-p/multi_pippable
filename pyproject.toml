@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "multi-pippable"
+version = "0.1"
+authors = [{name = "n-j-p"}]
+description = "Pippable package"
+readme = "README.md"
+license = {file = "LICENSE"}
