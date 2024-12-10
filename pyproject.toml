@@ -11,4 +11,4 @@ readme = "README.md"
 license = {file = "LICENSE"}
 
 [tool.setuptools]
-packages = {"multi_pippable", "multi_pippable.constants"}
+package-dir = {"" = "src"}
