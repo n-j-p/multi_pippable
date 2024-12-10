@@ -9,7 +9,3 @@ authors = [{name = "n-j-p"}]
 description = "Pippable package"
 readme = "README.md"
 license = {file = "LICENSE"}
-
-[tool.setuptools.packages.find]
-where = ["src"]
-include = ["multi_pippable.*"]
