@@ -1,2 +1,2 @@
 from .autoload import *
-import autoload2
+import .autoload2
