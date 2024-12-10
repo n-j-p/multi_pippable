@@ -10,5 +10,5 @@ description = "Pippable package"
 readme = "README.md"
 license = {file = "LICENSE"}
 
-[tool.setuptools.packages]
-find = {}
+[tool.setuptools]
+packages = {"multi_pippable", "multi_pippable.constants"}
